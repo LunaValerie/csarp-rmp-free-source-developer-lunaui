@@ -1,0 +1,14 @@
+C:\Users\lunav\source\repos\RPM\RPM\obj\Debug\RPM.csproj.AssemblyReference.cache
+C:\Users\lunav\source\repos\RPM\RPM\obj\Debug\RPM.csproj.SuggestedBindingRedirects.cache
+C:\Users\lunav\source\repos\RPM\RPM\obj\Debug\RPM.Properties.Resources.resources
+C:\Users\lunav\source\repos\RPM\RPM\obj\Debug\RPM.csproj.GenerateResource.cache
+C:\Users\lunav\source\repos\RPM\RPM\obj\Debug\RPM.csproj.CoreCompileInputs.cache
+C:\Users\lunav\source\repos\RPM\RPM\bin\Debug\RPM.exe.config
+C:\Users\lunav\source\repos\RPM\RPM\bin\Debug\RPM.exe
+C:\Users\lunav\source\repos\RPM\RPM\bin\Debug\RPM.pdb
+C:\Users\lunav\source\repos\RPM\RPM\obj\Debug\RPM.exe
+C:\Users\lunav\source\repos\RPM\RPM\obj\Debug\RPM.pdb
+C:\Users\lunav\source\repos\RPM\RPM\obj\Debug\RPM.Hyper.Area.resources
+C:\Users\lunav\source\repos\RPM\RPM\bin\Debug\MetroFramework.dll
+C:\Users\lunav\source\repos\RPM\RPM\bin\Debug\Siticone.UI.dll
+C:\Users\lunav\source\repos\RPM\RPM\obj\Debug\RPM.csproj.CopyComplete
